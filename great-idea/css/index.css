@@ -203,6 +203,56 @@ footer {
 	margin: 0 auto;
 }
 
-.services-header-img {
-	margin-left: 30%;
+.services {
+	margin: 1%;
+	margin-left: 12%;
+	padding: 20px;
+	width: 75%;
 }
+
+.services-header-img {
+	width: 100%;
+}
+
+.servicescontainer1 {
+	width: 75%;
+	margin-left: 12%;
+  }
+
+  .servicescontainer2 {
+	width: 75%;
+	margin-left: 12%;
+  }
+
+  .servicescontainer3 {
+	width: 75%;
+	margin-left: 12%;
+  }
+
+  .final-content {
+	  display: flex;
+  }
+
+  .finalcontent {
+  }
+
+  .finalcontent2 {
+	  width: 29%;
+  }
+
+  .top, .middle, .bottom {
+	display: flex;
+  }
+
+
+  .servicesbox {
+	  border: 1px solid black;
+	background-color: lightgrey;
+	margin: 2%;
+	height: 250px;
+  }
+
+  button {
+	background: white;
+	border: 2px solid black;
+  }
